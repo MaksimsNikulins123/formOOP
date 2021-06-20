@@ -1,0 +1,19 @@
+table{
+    display:flex;  
+    justify-content: center;
+    
+}
+tr, td {
+    padding: 10px; 
+}
+tr {
+    background: #606060;
+    color: #fff;
+}
+td{
+    margin: 0 auto; 
+    background: #b5b5b5
+}
+p{
+    margin:0;
+}
